@@ -195,3 +195,29 @@ Podemos comprobar en cualquier momento el estado de la rama en la que nos encont
 </div> 
 <br> 
 <hr>
+
+## **- Glosario de Terminos**
+<br>
+
+#### **1) Área de ensayo (staging area):**
+Es temporal, sirve para ver el estado en el que se encuentran los archivos de un proyecto.
+
+<br>
+
+#### **2) Estilo UNIX:**
+La filosofía de Unix hace hincapié en la construcción de código simple, corto, claro, modular y extensible que pueda ser fácilmente mantenido y reutilizado por otros desarrolladores que no sean sus creadores.
+
+<br>
+
+#### **3) Fork:**
+Un fork o, literalmente, tenedor, es una copia personal de un repositorio de otro usuario que se aloja en tu cuenta. Los forks te permiten modificar libremente cualquier proyecto sin alterar el original.
+
+<br>
+
+#### **4) Local:**
+La versión local es la copia que tienes del repositorio en tu ordenador, sobre la que trabajas.
+
+<br>
+
+#### **4) Repositorio:** 
+Un repositorio de Git es un almacenamiento virtual de tu proyecto. Te permite guardar versiones del código a las que puedes acceder cuando lo necesites.
