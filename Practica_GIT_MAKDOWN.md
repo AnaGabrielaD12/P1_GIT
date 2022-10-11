@@ -22,6 +22,10 @@ Git es un sistema de control de versiones distribuido, está pensando en la efic
 
 <br>
 
+<img src="IMAG_GIT2.jpg" width="600" height="300">
+
+<br>
+
 -Git está optimizado para guardar cambios de forma incremental.
 
 -Permite contar con un historial, regresar a una versión anterior y agregar funcionalidades.
@@ -43,7 +47,13 @@ El kernel de Linux es un proyecto de software de código abierto con un alcance 
 
 En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper. 
 
-Desde su nacimiento en el 2005, Git ha evolucionado y madurado para ser fácil de usar y conservar sus características iniciales. Es tremendamente rápido, muy eficiente con grandes proyectos y tiene un increíble sistema de ramificación (branching) para desarrollo no lineal
+Desde su nacimiento en el 2005, Git ha evolucionado y madurado para ser fácil de usar y conservar sus características iniciales. Es tremendamente rápido, muy eficiente con grandes proyectos y tiene un increíble sistema de ramificación (branching) para desarrollo no lineal.
+
+<br>
+
+<img src="IMAG_GIT.jpg" width="500" height="300">
+
+
 </div>
 
 <br>
